@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+
+# Rails (repo root)
+rails-api/log/
+rails-api/tmp/
+rails-api/storage/
+rails-api/.bundle/
+
+# Editors
+.vscode/
+.idea/

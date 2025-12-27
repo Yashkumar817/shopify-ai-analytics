@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AI-Powered Shopify Analytics App
 
 Overview
@@ -189,3 +190,6 @@ This project demonstrates:
 🏁 Conclusion
 
 This project fulfills the assignment’s goal of building a mini AI-powered Shopify analytics system, focusing on reasoning, architecture, and clarity rather than production polish.
+=======
+# shopify-ai-analytics
+>>>>>>> da155dd50b1657565f8bf098d73dc1a2f4d608db
