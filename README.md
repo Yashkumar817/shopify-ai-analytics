@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 AI-Powered Shopify Analytics App
 
 Overview
@@ -148,6 +147,7 @@ Response
 
 
 🔐 Shopify Integration (Mocked)
+
 • Shopify OAuth and ShopifyQL execution are mocked
 • This is intentional and allowed by the assignment
 • Architecture supports plugging in:
@@ -156,6 +156,7 @@ Response
 • ShopifyQL analytics queries
 
 🧪 Tech Stack
+
 • Backend API: Ruby on Rails (API-only)
 • AI Service: Python + FastAPI
 • Agent Logic: Rule-based (LLM-ready)
@@ -163,6 +164,7 @@ Response
 • HTTP Client: Faraday
 
 🚀 Future Enhancements
+
 • Shopify OAuth integration
 • Real ShopifyQL execution
 • LLM (OpenAI / Claude) integration
@@ -170,5 +172,6 @@ Response
 • Analytics dashboard
 
 🏁 Conclusion
+
 This project fulfills the assignment’s goal of building a mini AI-powered Shopify analytics system, focusing on reasoning, architecture, and clarity rather than production polish.
 
