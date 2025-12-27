@@ -146,7 +146,6 @@ Response
 "confidence": "medium"
 }
 
-⸻
 
 🔐 Shopify Integration (Mocked)
 • Shopify OAuth and ShopifyQL execution are mocked
@@ -156,27 +155,12 @@ Response
 • Shopify Admin API
 • ShopifyQL analytics queries
 
-⸻
-
 🧪 Tech Stack
 • Backend API: Ruby on Rails (API-only)
 • AI Service: Python + FastAPI
 • Agent Logic: Rule-based (LLM-ready)
 • Database: SQLite (default)
 • HTTP Client: Faraday
-
-⸻
-
-🎯 Evaluation Alignment
-
-This project demonstrates:
-• Clean API design
-• Agentic reasoning workflow
-• Rails ↔ Python orchestration
-• Practical handling of analytics logic
-• Business-friendly explanations
-
-⸻
 
 🚀 Future Enhancements
 • Shopify OAuth integration
@@ -185,11 +169,6 @@ This project demonstrates:
 • Conversation memory
 • Analytics dashboard
 
-⸻
-
 🏁 Conclusion
-
 This project fulfills the assignment’s goal of building a mini AI-powered Shopify analytics system, focusing on reasoning, architecture, and clarity rather than production polish.
-=======
-# shopify-ai-analytics
->>>>>>> da155dd50b1657565f8bf098d73dc1a2f4d608db
+
